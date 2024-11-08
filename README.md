@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Eduardo Rigobeli
 
-**`Desenvolvimento Front-End`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Eduardo Rigobeli Pereira de Souza, tenho 19 anos e sou natural do Paraná. Concluí o ensino médio no Antônio Teodoro de Oliveira. Atualmente, estou cursando Tecnologia Analista e Desenvolvimento de Sistemas no Centro Universitário Integrado. Gosto muito por tecnologia e compartilho meus projetos pelo GitHub, portfolio e também através do Instagram, com o perfil chamado "[Rigobeli.Dev](https://www.instagram.com/rigobeli.dev/)".
 
